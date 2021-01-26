@@ -1,0 +1,15 @@
+﻿$PBExportHeader$appeongit1.srj
+EXE:appeongit1.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 19.2.0.2670
+CMP:0,0,0,2,0,0,1
+COM:Imaweb
+DES:Appeon Git Test
+CPY:
+PRD:ICar DMS
+PVS:1.0.0.1
+PVN:1,0,0,1
+FVS:1.0.0.1
+FVN:1,0,0,1
+MAN:0,asInvoker,0
+PBD:appeongit1.pbl,,1
+PBD:appeongit2.pbl,recursos.pbr,1
+PBD:pbdom.pbd,,0
