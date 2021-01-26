@@ -70,14 +70,13 @@ string title = "none"
 string dataobject = "dw_test1"
 boolean vscrollbar = true
 boolean livescroll = true
-borderstyle borderstyle = StyleBox!
 end type
 
 type st_hello from statictext within w_main
 integer x = 864
 integer y = 152
 integer width = 859
-integer height = 188
+integer height = 124
 integer textsize = -10
 integer weight = 400
 fontcharset fontcharset = ansi!
@@ -86,7 +85,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Hello git   rev. 1.1"
+string text = "Cambio 2"
 boolean focusrectangle = false
 end type
 
